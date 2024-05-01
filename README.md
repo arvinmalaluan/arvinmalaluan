@@ -8,7 +8,7 @@
   <li>Machine learning</li>
 </ul>
 
-#### I am open to:
+#### I am open for:
 <ul>
   <li>Any collaboration work.</li>
   <li>Web development projects.</li>
